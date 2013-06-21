@@ -3,5 +3,5 @@
 This is totally irresponsible.
 
 ```bash
-$ make
+$ rust run src/rustque.rs
 ```
